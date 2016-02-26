@@ -3,9 +3,9 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/TravelBot.iml" filepath="$PROJECT_DIR$/TravelBot.iml" />
-      <module fileurl="file://$PROJECT_DIR$/libs/android-maps-utils/android-maps-utils.iml" filepath="$PROJECT_DIR$/libs/android-maps-utils/android-maps-utils.iml" />
+      <module fileurl="file://$PROJECT_DIR$/android-maps-utils/android-maps-utils.iml" filepath="$PROJECT_DIR$/android-maps-utils/android-maps-utils.iml" />
       <module fileurl="file://$PROJECT_DIR$/app/app.iml" filepath="$PROJECT_DIR$/app/app.iml" />
-      <module fileurl="file://$PROJECT_DIR$/volley/volley.iml" filepath="$PROJECT_DIR$/volley/volley.iml" />
+      <module fileurl="file://$PROJECT_DIR$/libs/volley/volley.iml" filepath="$PROJECT_DIR$/libs/volley/volley.iml" />
     </modules>
   </component>
 </project>

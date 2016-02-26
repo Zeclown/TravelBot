@@ -1,18 +1,17 @@
 <RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="fill_parent"
     android:layout_height="?android:attr/listPreferredItemHeight"
-    android:padding="6dip" >
+    android:background="#c5c5c5"
+    android:padding="4dp">
 
     <ImageView
         android:id="@+id/icon"
         android:layout_width="wrap_content"
         android:layout_height="fill_parent"
-        android:contentDescription="email sign"
-        android:src="@drawable/email"
-        android:cropToPadding="false"
+        android:layout_alignParentBottom="true"
         android:layout_alignParentTop="true"
-        android:layout_alignParentLeft="true"
-        android:layout_alignParentStart="true" />
+        android:contentDescription="Email "
+         />
 
     <TextView
         android:id="@+id/secondLine"
@@ -23,8 +22,13 @@
         android:layout_toRightOf="@id/icon"
         android:ellipsize="marquee"
         android:singleLine="true"
-        android:text="10/12/2015"
-        android:textSize="12sp" />
+        android:text="10/10/2012"
+        android:textSize="12sp"
+        android:textAlignment="center"
+        android:background="#ffffff"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginBottom="5dp" />
 
     <TextView
         android:id="@+id/firstLine"
@@ -36,7 +40,12 @@
         android:layout_alignWithParentIfMissing="true"
         android:layout_toRightOf="@id/icon"
         android:gravity="center_vertical"
-        android:text="Hey! I'm in Canada!"
-        android:textSize="16sp" />
+        android:text="Hello from Germany!"
+        android:textSize="16sp"
+        android:textAlignment="center"
+        android:background="#ffffff"
+        android:layout_marginLeft="5dp"
+        android:layout_marginRight="5dp"
+        android:layout_marginTop="5dp" />
 
-</RelativeLayout>
+</RelativeLayout> 

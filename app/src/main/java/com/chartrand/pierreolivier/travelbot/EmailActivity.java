@@ -1,6 +1,8 @@
 package com.chartrand.pierreolivier.travelbot;
 
 import android.app.Activity;
+import android.app.Fragment;
+import android.app.FragmentTransaction;
 import android.app.ListActivity;
 import android.os.Bundle;
 import android.widget.SimpleCursorAdapter;

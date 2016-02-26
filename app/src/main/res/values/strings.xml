@@ -7,4 +7,7 @@
     \n As I travel the world, I will send you updates on my journey, facts I learned about the countries I visited, photos and many more.
     \n\n\n Tap to begin exploring the world with me</string>
     <string name="title_activity_maps">Map</string>
+
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
 </resources>
