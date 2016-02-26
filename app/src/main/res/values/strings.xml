@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TravelBot</string>
+    <string name="account_name"></string>
+    <string name="welcome_message">Hi, my name is Kai!\n I am your new personal TravelBot. \n\n I would like to go over my
+        functions with you. How would you like me to call you ?</string>
+    <string name="welcome_functions1">Glad to meet you @name ! As a TravelBot, my primary function will be, as you might guess, to travel!
+    \n As I travel the world, I will send you updates on my journey, facts I learned about the countries I visited, photos and many more.
+    \n\n\n Tap to begin exploring the world with me</string>
+    <string name="title_activity_maps">Map</string>
+</resources>
